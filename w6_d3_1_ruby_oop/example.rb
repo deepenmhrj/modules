@@ -22,6 +22,7 @@ class Pet
 	end
 
 	def self.print_all_pet_names
+		# we're not really set up for this
 	end
 	# Pet.print_all_pet_names
 
